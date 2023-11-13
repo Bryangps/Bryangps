@@ -1,15 +1,22 @@
 ## Boas vindas ao meu perfil!
-- Me chamo Bryan tenho 22 anos. Sou uma pessoa que recetimente migrou para area da tecnologia, e acabei logo de cara me apaixondo por esse mundo, sempre tive vontade de entrar em alguma area da tecnologia, mais por não ser apoiado pela famila, demorei para entrar nesse ramo. Antigamente estudava para concurso militar por motivo de achar que seria a unica maneira de mudar de vida e dá orgulho para minha familia, mais  não era essa profisão que eu queria realmente, pois antes de começar a estudar para concurso militar já avia um interesse na area da tecnologia, e por esse motivo fui embusca de saber mais sobre essa erea. Perguntei para amigos que trabalha no ramo, sobre como funicia realmente esse mundo e quais passos eu poderia está dando, pesquisei muito na internet quais são as areas de trabalho do mundo da tecnologia, então apois passar por alguns momentos dificeis acabei entrando nesse mundo maravilho.
+<img src="https://komarev.com/ghpvc/?username=bryangps&color=yellow" alt="Profile views" /> 
 
-  
-- 🔭 Hoje sou estudante de **Analise e Desenvolvimento de Sistema**
-- <div>
+
+### A little about myself
+<br>
+✌ Me chamo Bryan tenho 22 anos. Sou uma pessoa que recentimente migrou para area da tecnologia, e acabei logo de cara me apaixondo por esse mundo, sempre tive vontade de entrar em alguma area da tecnologia, mais por não ser apoiado pela famila, demorei para entrar nesse ramo. Antigamente estudava para concurso militar por motivo de achar que seria a unica maneira de mudar de vida e dá orgulho para minha familia, mais  não era essa profissão que eu queria realmente, pois antes de começar a estudar para concurso militar já havia um interesse na area da tecnologia, e por esse motivo fui embusca de saber mais sobre essa area. Perguntei para amigos que trabalha no ramo, sobre como funicia realmente esse mundo e quais passos eu poderia está dando, pesquisei muito na internet quais são as areas de trabalho do mundo da tecnologia, então apois passar por alguns momento complicado, entrei para esse mundo.
+<br>
+<br> 
+📝 Atualmente sou estudante de **Analise e Desenvolvimento de Sistema** na universidade estácio, pretendo ser um desenvolverdor web banck-and utilizando a linguagem de programação python, mais sempre com mente aberta para apreder novas linguagens.
+<br>
+<br>
+<div>
 <a href= "https://beacons.ai/Bryangps">
 <img  align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryangps&show_icons=true&theme=radical"/>
 <img align="center" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bryangps&layout=compact&theme=radical"/>
 </div>
 <br>
-<br
+
   
 <div>
 <a href="#">
