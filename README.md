@@ -19,7 +19,7 @@
 You can find me here too 👇
 
 <div>
-<a href="https://instagram.com/bryan.gps18" target="_blank">
+<a href="www.linkedin.com/in/bryan-george-pinto-da-silva-92a473284" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
