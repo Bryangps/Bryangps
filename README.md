@@ -1,6 +1,8 @@
 ## Boas vindas ao meu perfil!
 ***
+- Me chamo Bryan tenho 22 anos. Sou uma pessoa que recetimente microu para area da tecnologia, e acabei logo de cara me apaixondo por esse mundo, sempre tive vontade de entrar em alguma area da tecnologia, mais por não ser apoiado pela famila, demorei para entrar nesse ramo. Antigamente estudava para concurso militar por motivo de achar que seria a unica maneira de mudar de vida e dá orgulho para minha familia, mais  não era essa profisão que eu queria realmente, pois antes de começar a estudar para concurso militar já avia um interesse na area da tecnologia, e por esse motivo fui embusca de saber mais sobre essa erea. Perguntei para amigos que trabalha no ramo, sobre como funicia realmente esse mundo e quais passos eu poderia está dando, pesquisei muito na internet quais são as areas de trabalho do mundo da tecnologia, então apois passar por alguns momentos dificeis acabei entrando nesse mundo maravilho.
 
+  
 - 🔭 Hoje sou estudante de **Analise e Desenvolvimento de Sistema**
 - <div>
 <a href= "https://beacons.ai/Bryangps">
