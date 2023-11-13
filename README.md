@@ -19,11 +19,11 @@
 You can find me here too 👇
 
 <div>
-<a href="www.linkedin.com/in/bryan-george-pinto-da-silva-92a473284" target="_blank">
+<a href="https://instagram.com/bryan.gps18" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="www.linkedin.com/in/Bryan Silva" target="_blank">
+<a href="www.linkedin.com/in/bryan-silva-92a473284" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
