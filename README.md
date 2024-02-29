@@ -2,9 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=bryangps&color=yellow" alt="Profile views" /> 
 
 
-### A little about myself
-<br>
-✌Hello, my name is Bryan, welcome
+### ✌Hello, my name is Bryan, welcome
 <br>
 <br>
 <div>
