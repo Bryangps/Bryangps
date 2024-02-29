@@ -4,10 +4,7 @@
 
 ### A little about myself
 <br>
-✌ Me chamo Bryan tenho 22 anos. Antigamente estudava para concurso militar, mais  não era essa profissão que eu queria realmente, pois antes de começar a estudar para concurso militar já havia um interesse na area da tecnologia, e por esse motivo fui embusca de saber mais sobre essa area. Perguntei para amigos que trabalham no ramo sobre  e quais passos eu poderia está dando, logo após fui pesquisar na internet as areas de trabalho do mundo da tecnologia, então após passar por alguns momento complicado, resolvi ir embusca dos meu objetivo em algo onde eu ralmente teve sempre um interesse.
-<br>
-<br> 
-📝 Atualmente sou estudante de Analise e Desenvolvimento de Sistema na universidade estácio, pretendo ser um desenvolverdor web back end utilizando a linguagem de programação python, mais sempre embusca de apreder novas linguagens.
+✌Hello, my name is Bryan, welcome
 <br>
 <br>
 <div>
