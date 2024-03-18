@@ -1,10 +1,7 @@
-## Boas vindas ao meu perfil!
+## Olá, meu nome é Bryan. Seja bem-vindo!!
 <img src="https://komarev.com/ghpvc/?username=bryangps&color=yellow" alt="Profile views" /> 
-
-
-### ✌Hello, my name is Bryan, welcome
 <br>
-<br>
+
 <div>
 <a href= "https://beacons.ai/Bryangps">
 <img  align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryangps&show_icons=true&theme=radical"/>
@@ -36,9 +33,8 @@ You can find me here too 👇
 # Tech Stack
 
  <div>
-   
- <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
+   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
 </div> 
