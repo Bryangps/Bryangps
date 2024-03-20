@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bryan-gps/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:bryan.gps18@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Bryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-gps/)](https://www.linkedin.com/in/bryan-gps/)
+[![Gmail Badge](https://img.shields.io/badge/-bryan.gps18@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bryan.gps18@gmail.com)](mailto:bryan.gps18@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Bryangps?label=follow&style=social)](https://github.com/Bryangps)
