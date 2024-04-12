@@ -5,11 +5,10 @@
 
 ## Olá, meu nome é Bryan. Seja bem-vindo!!
 
+- 
 
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Analise e desenvolvimento de sistema} na {Estácio}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+
 
   
 <br>
