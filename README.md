@@ -8,8 +8,7 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🎓 Estudando {Analise e desenvolvimento de sistema} na {Estácio}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
   
