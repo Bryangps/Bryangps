@@ -9,7 +9,7 @@
 
 - 💻 Sou um desenvolvedor web [Back-end]
 - 🎓 Estudo {Analise e desenvolvimento de sistema} na {Estácio}.
-- Sou uma pessoa muito esforçada ... 
+
 
 
   
