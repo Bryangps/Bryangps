@@ -7,8 +7,8 @@
  
 -> Sobre mim 
 
-- 💻 Sou um desenvolvedor web [Back-end]
-- 🎓 Estudo {Analise e desenvolvimento de sistema} na {Estácio}.
+- 💻 
+- 🎓
 
 
 
