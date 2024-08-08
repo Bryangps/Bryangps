@@ -4,13 +4,6 @@
 
 
  ## Olá, Seja bem-vindo!!
- 
--> Sobre mim 
-
-- 💻 
-- 🎓
-
-
 ## Hard Skills
 ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
