@@ -8,8 +8,6 @@
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
